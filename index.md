@@ -5,9 +5,6 @@
 ### (My R&D Project) "자율운항선박을 위한 해양환경 실시간 모니터링 및 예측 시뮬레이션 기술 개발"
 
 
-![image](https://user-images.githubusercontent.com/34589227/148151007-3f3aeb2c-1d59-45d2-8b11-93355b7904a4.png)
-
-
 #### 연구의 필요성
 
 전 세계적으로 자율운항선박의 도입에 따른 시장규모가 2025년까지 약 1,550억불(한화 약 170조)로 성장할 것이라 예측하고 있으며, 전후방 모든 산업의 현 성장률을 감안하면 2035년 약 8,000조 시장규모가 될 것이고 분석 Growth, Future Prospects, and Competitive Analysis, 2017-2025, Credence research, 2018.4 (한국의 자율운항선박 대응정책 방향, 한국해양수산개발원, 2018에서 재인용)
